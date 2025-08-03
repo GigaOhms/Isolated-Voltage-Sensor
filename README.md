@@ -29,7 +29,8 @@ This design includes a switch for selecting between **AC** and **DC** measuremen
 - The 1.5V offset can be generated using a voltage divider or a 1.5V reference
 - Helps accurately measure bipolar signals using a unipolar ADC
 
-![Schematic Diagram](.github/assets/img.jpg) | ![](.github/assets/imgg.jpg)
+:-------------------------:|:-------------------------:
+![](.github/assets/img.jpg)  |  ![](.github/assets/imgg.jpg)
 
 ---
 
