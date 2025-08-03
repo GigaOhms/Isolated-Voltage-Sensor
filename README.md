@@ -14,6 +14,7 @@ The AMC1301 is an isolated amplifier with a differential output. However, many m
 - A differential op-amp or resistor network converts it to single-ended signal
 - Output voltage is within the 0–3.3V range (with ~1.5V DC offset for AC sensing)
 - Ensures electrical isolation and safe interfacing with high voltage systems
+
 ![Schematic Diagram](.github/assets/sch.png)
 
 ---
@@ -30,8 +31,8 @@ This design includes a switch for selecting between **AC** and **DC** measuremen
 - Helps accurately measure bipolar signals using a unipolar ADC
 
 <p float="left">
-  <img src="/.github/assets/img.jpg" height="300" />
-  <img src="/.github/assets/imgg.jpg" height="300" /> 
+  <img src="/.github/assets/img.jpg" height="280" />
+  <img src="/.github/assets/imgg.jpg" height="280" /> 
 </p>
 
 ---
