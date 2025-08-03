@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+5 Pin=XH1-1
+Removed Pin From Net: NetName=NetC10_2 Pin=XH1-2
+Removed Pin From Net: NetName=GND Pin=XH1-3
+Removed Member From Class: ClassName=AC_voltage_sensor Member=XH1
+Added Component: Designator=XH?1(XHN_3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HHDR_3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=XH?1-1
+Added Pin To Net: NetName=NetC10_2 Pin=XH?1-2
+Added Pin To Net: NetName=GND Pin=XH?1-3
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component XH?1 HHDR_3
+Added Room: Name=AC_voltage_sensor

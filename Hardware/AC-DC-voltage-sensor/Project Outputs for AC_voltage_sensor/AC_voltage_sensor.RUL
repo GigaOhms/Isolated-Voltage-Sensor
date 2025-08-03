@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Work\powerElectronic\Measurement\AC-DC_voltage_sensor\AC_voltage_sensor.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=23.62
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

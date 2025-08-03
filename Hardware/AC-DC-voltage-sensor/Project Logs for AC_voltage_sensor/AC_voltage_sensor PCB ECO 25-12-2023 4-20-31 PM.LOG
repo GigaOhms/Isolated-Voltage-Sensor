@@ -1,0 +1,14 @@
+Change Component Comment : Designator=SW1 Old Comment=Comment New Comment=MSK-12C02
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "MSK12C02"; UniqueID = "\VUTPUKVJ" ("\VUTPUKVJ")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_PART#"; Value = "OS102011MS2QN1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "0.4$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "SlideSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=COM Pin=SW1-B1
+Added Pin To Net: NetName=1.5V Pin=SW1-C1
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component SW1 MSK-12C02
+Added Room: Name=AC_voltage_sensor

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DC_DIV Pin=R3-1
+Added Pin To Net: NetName=DC_DIV Pin=R6-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R5-1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component RLed 1k
+Added Room: Name=AC_voltage_sensor

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=LEDs-2
+Added Pin To Net: NetName=N Pin=LEDs-2
+Added Room: Name=AC_voltage_sensor

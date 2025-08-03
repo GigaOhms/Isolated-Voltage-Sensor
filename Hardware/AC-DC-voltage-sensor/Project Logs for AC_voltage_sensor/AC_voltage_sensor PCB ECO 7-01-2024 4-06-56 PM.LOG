@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=L Pin=SW1-1
+Removed Pin From Net: NetName=L Pin=SW1-2
+Removed Pin From Net: NetName=DC_DIV Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=COM Pin=SW1-5
+Removed Member From Class: ClassName=AC_voltage_sensor Member=SW1
+Added Component: Designator=SW2(SW_MS22D18 SMD)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PART#"; Value = "OS102011MS2QN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.4$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SlideSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L Pin=SW2-1
+Added Pin To Net: NetName=L Pin=SW2-2
+Added Pin To Net: NetName=DC_DIV Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=COM Pin=SW2-5
+Added Pin To Net: NetName=1.5V Pin=SW2-6
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component SW2 MSS-22D18 DIP
+Added Room: Name=AC_voltage_sensor

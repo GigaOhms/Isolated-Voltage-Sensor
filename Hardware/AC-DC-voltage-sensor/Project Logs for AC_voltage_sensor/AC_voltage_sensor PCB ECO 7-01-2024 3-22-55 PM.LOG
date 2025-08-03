@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=SW1-A1
+Removed Pin From Net: NetName=COM Pin=SW1-B1
+Removed Pin From Net: NetName=1.5V Pin=SW1-C1
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=U1-3
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-4
+Removed Pin From Net: NetName=+5 Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=NetC12_1 Pin=U2-4
+Removed Pin From Net: NetName=+5 Pin=U2-5
+Removed Member From Class: ClassName=AC_voltage_sensor Member=U1
+Change Component Footprint: Designator=SW1 Old Footprint=MSK12C02 New Footprint=SW_MS22D18
+Change Component Footprint: Designator=U2 Old Footprint=SOT23_5 New Footprint=Soic-8
+Change Component Comment : Designator=U2 Old Comment=MCP6001 New Comment=MCP6002
+Change Component Comment : Designator=SW1 Old Comment=MSK-12C02 New Comment=MSS-22D18 DIP
+Added Pin To Net: NetName=L Pin=SW1-1
+Added Pin To Net: NetName=L Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=1.5V Pin=SW1-5
+Added Pin To Net: NetName=COM Pin=SW1-5
+Added Pin To Net: NetName=NetC12_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetC3_1 Pin=U2-5
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Pin To Net: NetName=NetR2_2 Pin=U2-7
+Added Pin To Net: NetName=+5 Pin=U2-8
+Change Net Name : Old Net Name=NetC10_2 New Net Name=ADC_VOL
+Added Pin To Net: NetName=DC_DIV Pin=R3-1
+Added Pin To Net: NetName=DC_DIV Pin=R5-2
+Added Pin To Net: NetName=DC_DIV Pin=SW1-3
+Added Net: Name=DC_DIV
+Added Room: Name=AC_voltage_sensor

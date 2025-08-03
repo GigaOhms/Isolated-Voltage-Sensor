@@ -1,0 +1,51 @@
+Added Component: Designator=LEDs(LED0805RED)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "36t@Javan"; VariantName = "[No Variations]"
+Added Component: Designator=LED(LED0805RED)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "36t@Javan"; VariantName = "[No Variations]"
+Added Component: Designator=RLeds(R0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "WSLP0805R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "0.5W, -55~155oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RLed(R0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "WSLP0805R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "0.5W, -55~155oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=GND Pin=LEDs-2
+Added Pin To Net: NetName=+5 Pin=RLed-2
+Added Pin To Net: NetName=5iso Pin=RLeds-2
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=RLed-1
+Added Net: Name=NetLED_1
+Added Pin To Net: NetName=NetLEDs_1 Pin=LEDs-1
+Added Pin To Net: NetName=NetLEDs_1 Pin=RLeds-1
+Added Net: Name=NetLEDs_1
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component LEDs =VALUE
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component LED =VALUE
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component RLeds 1k
+Added Member To Class: ClassName=AC_voltage_sensor Member=Component RLed 1k
+Added Room: Name=AC_voltage_sensor
