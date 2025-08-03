@@ -30,8 +30,8 @@ This design includes a switch for selecting between **AC** and **DC** measuremen
 - Helps accurately measure bipolar signals using a unipolar ADC
 
 <p float="left">
-  <img src="/.github/assets/img.jpg" width="100" />
-  <img src="/.github/assets/imgg.jpg" width="100" /> 
+  <img src="/.github/assets/img.jpg" height="1000" />
+  <img src="/.github/assets/imgg.jpg" height="1000" /> 
 </p>
 
 ---
